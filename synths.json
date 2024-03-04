@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Synth 0",
+    "type": "Synth",
+    "settings": {
+      "detune": "3",
+      "portamento": "0.5",
+      "volume": "0",
+      "oscillator": {
+        "type": "sine3",
+        "phase": 0,
+        "partialCount": "3"
+      },
+      "envelope": {
+        "attack": "0.12",
+        "attackCurve": "linear",
+        "decay": "0.07",
+        "decayCurve": "exponential",
+        "sustain": "0.51",
+        "release": "1.53",
+        "releaseCurve": "linear"
+      }
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Synth 1",
+    "type": "Synth",
+    "settings": {
+      "detune": "-4",
+      "portamento": "0.1",
+      "volume": "0",
+      "oscillator": {
+        "type": "amsine6",
+        "harmonicity": "0.8",
+        "phase": 0,
+        "partialCount": "6",
+        "modulationType": "triangle"
+      },
+      "envelope": {
+        "attack": "0.07",
+        "attackCurve": "bounce",
+        "decay": "0.07",
+        "decayCurve": "exponential",
+        "sustain": "0.48",
+        "release": "1.41",
+        "releaseCurve": "exponential"
+      }
+    }
+  }
+]
